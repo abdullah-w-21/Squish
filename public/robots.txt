@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://squishh.vercel.app/sitemap.xml
