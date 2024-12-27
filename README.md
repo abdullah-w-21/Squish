@@ -18,7 +18,7 @@ A lightning-fast, browser-based image compression tool that respects your privac
 
 ## 🔥 Live Demo
 
-[Try Squish Now](https://squish.vercel.app)
+[Try Squish Now](https://squishh.vercel.app)
 
 ## 🛠️ Technology Stack
 
@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🔗 Links
 
-- Project homepage: [https://squish.vercel.app](https://squish.vercel.app)
+- Project homepage: [https://squish.vercel.app](https://squishh.vercel.app)
 - Repository: [https://github.com/abdullah-w-21/squish](https://github.com/abdullah-w-21/squish)
 - Issue tracker: [https://github.com/abdullah-w-21/squish/issues](https://github.com/abdullah-w-21/squish/issues)
   
