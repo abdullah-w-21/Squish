@@ -1,6 +1,3 @@
-# Squish
-browser-based image compression tool that respects your privacy
-
 # Squish 🎯
 
 A lightning-fast, browser-based image compression tool that respects your privacy. Compress and convert images instantly without uploading them to any server.
