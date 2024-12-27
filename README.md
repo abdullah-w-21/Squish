@@ -107,8 +107,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 If you find this project useful, please consider giving it a ⭐️ on Github and sharing it with your friends!
 
-## 📞 Contact
 
-
-
-Project Link: [https://github.com/yourusername/squish](https://github.com/abdullah-w-21/squish)
