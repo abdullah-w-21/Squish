@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1106)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(0.9765625,0,0,0.9765625,250,250)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="512" height="512"><svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="256" cy="256" r="256" fill="#3B82F6"></circle>
+    
+    <!-- Abstract Image Icon -->
+    <path d="M156 176
+             C156 162.745 166.745 152 180 152
+             H332C345.255 152 356 162.745 356 176
+             V336C356 349.255 345.255 360 332 360
+             H180C166.745 360 156 349.255 156 336
+             V176Z" fill="white" opacity="0.9"></path>
+    
+    <!-- Compression Lines -->
+    <path d="M196 216 H316 M196 256 H316 M196 296 H316" stroke="#3B82F6" stroke-width="16" stroke-linecap="round"></path>
+    
+    <!-- Arrow Elements -->
+    <path d="M276 192L296 216M296 192L276 216" stroke="#3B82F6" stroke-width="12" stroke-linecap="round"></path>
+    
+    <!-- Small Squares -->
+    <rect x="196" y="192" width="24" height="24" fill="#3B82F6" rx="4"></rect>
+    <rect x="196" y="272" width="24" height="24" fill="#3B82F6" rx="4"></rect>
+</svg></svg></g></g><defs><clipPath id="SvgjsClipPath1106"><rect width="1000" height="1000" x="0" y="0" rx="500" ry="500"></rect></clipPath></defs></svg>
